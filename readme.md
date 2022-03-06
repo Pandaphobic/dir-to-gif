@@ -1,4 +1,3 @@
-# Testing Area
+## DIR TO GIF
 
-`node index.js`
-Currently only build image from PNGs in the input folder
+**EXPERIMENTAL DO NOT USE**
